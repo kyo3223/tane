@@ -14,6 +14,7 @@
 <br>
 [windows安装(只可做参考)](http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
 
+<br>
 # ide
 windows下推荐vscode
 <br>
@@ -33,23 +34,27 @@ npm install eslint-plugin-react
 npm install eslint-plugin-react-native
 <br>
 - vscode有react-native-tools插件，虽然感觉不太好用
+<br>
 # 程序调试
 - 电脑上debug:建议在外部终端启动debug(在vscode启动debug感觉速度比较慢)
 <br>
 比如安卓用```react-native run-android```命令，摇动手机调用debug js，电脑中chrome浏览器会跳出调试界面
 - 手机上调试:
 摇动手机，选择toggle inspector，可以查看布局、network等信息
+<br>
 # 案例源码
 [基础结构源码](https://github.com/yuanguozheng/JdApp)
 <br>
 [各种案例](http://www.lcode.org/)
 <br>
 [各种案例](http://www.cnblogs.com/qiangxia/p/5584622.html)
+<br>
 # 教学视频
 [http://www.reactnative.vip/thread-161-1-1.html](http://www.reactnative.vip/thread-161-1-1.html)
 <br>
 [http://i.youku.com/i/UMzM5ODI5MDA4MA==](http://i.youku.com/i/UMzM5ODI5MDA4MA==)
 
+<br>
 # 其他资料
 [直接显示web页面](http://reactnative.cn/docs/0.31/webview.html#content)
 <br>
