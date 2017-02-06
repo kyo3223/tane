@@ -57,3 +57,6 @@ npm install eslint-plugin-react-native
 <br>
 [windows下reload问题](http://bbs.reactnative.cn/topic/2297/react-native%E5%9C%A8windows%E4%B8%8B%E4%B8%8D%E8%83%BDreload%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 （rn在windows下兼容性较差，特别是升级react-native版本以后，可能会出现各种问题）
+
+<br>
+[返回](https://github.com/kyo3223/tane)

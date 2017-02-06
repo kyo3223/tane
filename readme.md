@@ -11,6 +11,6 @@ mongodb
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/mongodb.md
 <br>
-主页
+
 <br>
-https://github.com/kyo3223/tane
+[返回](https://github.com/kyo3223/tane)
