@@ -14,6 +14,10 @@ https://github.com/nswbmw/N-blog/
 <br>
 https://github.com/doramart/DoraCMS
 <br>
+node网站案例
+<br>
+https://github.com/wj008/beaconjs
+<br>
 权限
 <br>
 http://cnodejs.org/topic/5364b495157b63e57d04890c
