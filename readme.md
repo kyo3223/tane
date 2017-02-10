@@ -1,16 +1,20 @@
 
-expressjs(node.js网页开发)
+* expressjs(node.js网页开发)
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/expressjs.md
 <br>
-react-native(移动app开发)
+* react-native(移动app开发)
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/rn.md
 <br>
-mongodb(json数据库)
+* mongodb(json数据库)
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/mongodb.md
 <br>
-ide-vscode
+* typescript
+<br>
+https://github.com/kyo3223/tane/blob/master/mds/typescript.md
+<br>
+* ide-vscode
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/ide/vscode.md
