@@ -11,3 +11,6 @@ mongodb(json数据库)
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/mongodb.md
 <br>
+ide-vscode
+<br>
+https://github.com/kyo3223/tane/blob/master/mds/ide/vscode.md
