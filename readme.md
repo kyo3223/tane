@@ -22,3 +22,11 @@ https://github.com/kyo3223/tane/blob/master/mds/ide/vscode.md
 * angularjs
 <br>
 http://www.runoob.com/angularjs/angularjs-tutorial.html
+<br>
+* js
+<br>
+http://www.w3school.com.cn/b.asp
+<br>
+* es6
+<br>
+http://www.jianshu.com/p/ebfeb687eb70
