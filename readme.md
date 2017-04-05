@@ -27,6 +27,8 @@ http://www.runoob.com/angularjs/angularjs-tutorial.html
 <br>
 http://www.w3school.com.cn/b.asp
 <br>
+http://www.w3school.com.cn/js/index_pro.asp
+<br>
 * es6特征
 <br>
 http://www.jianshu.com/p/ebfeb687eb70
