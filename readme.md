@@ -32,3 +32,15 @@ http://www.w3school.com.cn/js/index_pro.asp
 * es6特征
 <br>
 http://www.jianshu.com/p/ebfeb687eb70
+<br>
+* jsDoc
+<br>
+http://www.css88.com/doc/jsdoc/index.html
+<br>
+* js压缩
+<br>
+http://javascript-minifier.com/
+<br>
+正则
+<br>
+https://regexper.com/
