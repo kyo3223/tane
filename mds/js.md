@@ -1,0 +1,21 @@
+js
+<br>
+http://www.w3school.com.cn/b.asp
+<br>
+http://www.w3school.com.cn/js/index_pro.asp
+<br>
+es6特征
+<br>
+http://www.jianshu.com/p/ebfeb687eb70
+<br>
+jsDoc
+<br>
+http://www.css88.com/doc/jsdoc/index.html
+<br>
+js压缩
+<br>
+http://javascript-minifier.com/
+<br>
+CommonJS cmd amd
+<br>
+http://www.cnblogs.com/chenguangliang/p/5856701.html
