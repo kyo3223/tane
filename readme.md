@@ -31,6 +31,8 @@ https://github.com/kyo3223/tane/blob/master/mds/js.md
 <br>
 https://regexper.com/
 <br>
+http://www1.qdfuns.com/tools.php?mod=regex
+<br>
 * zeal
 <br>
 https://zealdocs.org/
