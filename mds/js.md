@@ -19,3 +19,7 @@ http://javascript-minifier.com/
 CommonJS cmd amd
 <br>
 http://www.cnblogs.com/chenguangliang/p/5856701.html
+<br>
+Promise
+<br>
+http://www.jianshu.com/p/063f7e490e9a
