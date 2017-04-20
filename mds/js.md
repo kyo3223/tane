@@ -4,6 +4,10 @@ http://www.w3school.com.cn/b.asp
 <br>
 http://www.w3school.com.cn/js/index_pro.asp
 <br>
+es6
+<br>
+http://es6.ruanyifeng.com/?search=promise&x=0&y=0#README
+<br>
 es6特征
 <br>
 http://www.jianshu.com/p/ebfeb687eb70
@@ -23,3 +27,5 @@ http://www.cnblogs.com/chenguangliang/p/5856701.html
 Promise
 <br>
 http://www.jianshu.com/p/063f7e490e9a
+<br>
+http://www.cnblogs.com/lvdabao/p/es6-promise-1.html
