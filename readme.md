@@ -40,3 +40,9 @@ http://blog.csdn.net/lvchaman/article/details/51462656
 https://zealdocs.org/
 <br>
 http://kapeli.com/docset_links
+<br>
+* 手机安全验证
+<br>
+https://segmentfault.com/q/1010000000486648
+<br>
+http://www.cnblogs.com/leechenxiang/p/6385607.html
