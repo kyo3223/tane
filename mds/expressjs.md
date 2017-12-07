@@ -5,8 +5,13 @@ http://www.runoob.com/nodejs/nodejs-tutorial.html
 expressjs
 <br>
 http://www.expressjs.com.cn/
+<br>
 
 http://www.runoob.com/nodejs/nodejs-express-framework.html
+<br>
+express 进程托管 pm2
+<br>
+https://www.cnblogs.com/chyingp/p/pm2-documentation.html
 <br>
 案例
 <br>
