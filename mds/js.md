@@ -29,3 +29,9 @@ Promise
 http://www.jianshu.com/p/063f7e490e9a
 <br>
 http://www.cnblogs.com/lvdabao/p/es6-promise-1.html
+<br>
+js加密
+<br>
+http://blog.fens.me/nodejs-uglifyjs2-js/
+<br>
+npm install uglify-js -g
