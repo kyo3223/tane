@@ -45,3 +45,6 @@ for /r . %%a in (*.js) do (
 )
 echo 完成!
 pause & exit
+
+<br>
+grunt
