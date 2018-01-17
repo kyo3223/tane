@@ -34,4 +34,4 @@ js加密
 <br>
 http://blog.fens.me/nodejs-uglifyjs2-js/
 <br>
-npm install uglify-js -g
+http://blog.fens.me/nodejs-crypto/
