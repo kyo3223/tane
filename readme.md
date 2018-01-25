@@ -49,4 +49,6 @@ http://www.cnblogs.com/leechenxiang/p/6385607.html
 <br>
 egg相关
 <br>
+http://hubcarl.github.io/easywebpack/react/client/
+<br>
 https://github.com/hubcarl/egg-react-webpack-boilerplate
