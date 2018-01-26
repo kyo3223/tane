@@ -47,8 +47,6 @@ https://segmentfault.com/q/1010000000486648
 <br>
 http://www.cnblogs.com/leechenxiang/p/6385607.html
 <br>
-egg相关
+* egg相关
 <br>
-http://hubcarl.github.io/easywebpack/react/client/
-<br>
-https://github.com/hubcarl/egg-react-webpack-boilerplate
+https://github.com/kyo3223/tane/blob/master/mds/egg.md
