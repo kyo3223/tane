@@ -27,6 +27,10 @@ http://www.runoob.com/angularjs/angularjs-tutorial.html
 <br>
 https://github.com/kyo3223/tane/blob/master/mds/js.md
 <br>
+js资料
+<br>
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+<br>
 * 正则
 <br>
 https://regexper.com/
