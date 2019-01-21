@@ -83,6 +83,10 @@ https://www.jianshu.com/p/27b2767b4193
 <br>
 https://github.com/nuysoft/Mock/wiki
 <br>
+.net core
+<br>
+https://github.com/kyo3223/tane/blob/master/mds/dotnetcore.md
+<br>
 程序员工具
 <br>
 https://tool.lu/
