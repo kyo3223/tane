@@ -1,6 +1,6 @@
 [微软官网](https://dotnet.github.io/)
 <br>
-[微软官网_中文](https://docs.microsoft.com/zh-cn/aspnet/?view=aspnetcore-2.1#pivot=core&panel=core_overview)
+[微软官网_中文](https://docs.microsoft.com/zh-cn/aspnet)
 <br>
 <br>
 [使用VS Code开发.Net Core 2.0 MVC Web应用程序教程之一](https://www.cnblogs.com/paluano/p/7282792.html)
@@ -23,5 +23,9 @@ Oracle:
 ```dotnet add package Oracle.ManagedDataAccess.Core --version 2.18.3```
 <br>
 ```dotnet restore```
+<br>
+<br>
+[权限相关](https://www.cnblogs.com/axzxs2001/p/7482771.html)
+<br>
 <br>
 [返回](https://github.com/kyo3223/tane)
