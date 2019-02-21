@@ -9,6 +9,11 @@
 [mvc资料](https://www.cnblogs.com/CreateMyself/category/932070.html)
 <br>
 <br>
+发布
+<br>
+```dotnet publish --framework netcoreapp2.2 --output "x:\xxx" --configuration Release```
+<br>
+<br>
 router
 <br>
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-2.2
@@ -26,6 +31,9 @@ Oracle:
 <br>
 <br>
 [权限相关](https://www.cnblogs.com/axzxs2001/p/7482771.html)
+<br>
+<br>
+[权限相关2](https://blog.csdn.net/zzzili/article/details/79288040)
 <br>
 <br>
 [返回](https://github.com/kyo3223/tane)
