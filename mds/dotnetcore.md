@@ -6,6 +6,8 @@
 
 [使用VS Code开发.Net Core 2.0 MVC Web应用程序教程之一](https://www.cnblogs.com/paluano/p/7282792.html)
 
+其他文章:<https://www.cnblogs.com/stulzq/category/875379.html>
+
 [mvc资料](https://www.cnblogs.com/CreateMyself/category/932070.html)
 
 发布命令：```dotnet publish --framework netcoreapp2.2 --output "x:\xxx" --configuration Release```
